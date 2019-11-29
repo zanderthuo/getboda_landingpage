@@ -1,0 +1,75 @@
+/*color:#20afd7*/
+body {
+    /* background-image: url('/img/gboda.jpeg');   */
+}
+/* 
+.header {
+    position: fixed;
+    top: 0;
+  } */
+
+  #header {
+    background: #20afd7;
+    height: 100px;
+}
+.innertube {
+    margin: 15px; /* Padding for content */
+    margin-top: 0;
+}
+
+  #footer {
+    clear: left;
+    width: 100%;
+    background: #20afd7;
+    text-align: center;
+    padding: 4px 0;
+}
+
+/* #footer {
+position: fixed;
+bottom: 0;
+background-color: #20afd7;
+} */
+/*********************NAVBAR**********************/
+.navbar {
+    position: left;
+   
+    display: flex;
+   
+    flex-wrap: wrap;
+   
+    align-items: center;
+    justify-content: space-between;
+    padding: .0rem 0.5rem;
+    color: #20afd7;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.bg-light {
+    background-color: white;
+}
+
+.navbar-nav{
+    color: #20afd7;
+}  
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #20afd7;
+    border-color: black;
+}
+
+li {
+    color: #fff;
+}
+
+#bt {
+    ox-align: left;
+}
+
+p {
+        
+}

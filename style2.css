@@ -1,0 +1,110 @@
+body {
+    background-image: url('/img/backg.png');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     /* background-position: center;     */
+}
+
+
+
+#header {
+    background: #20afd7;
+    height: 80px;
+}
+
+.btn-group .right{
+    padding: 24px 12px;
+    margin: 0 5px;  
+}
+/* 
+padding: 24px 12px;
+    margin: 0 5px;   */
+
+#footer {
+    clear: left;
+    width: 100%;
+    background: #20afd7;
+    text-align: Left;
+    position: fixed; left: 0; bottom: 0;
+    /* z-index: -100; */
+    height: 70px;
+    /* grid-row-start: 2;
+    grid-row-end: 3; */
+    /* padding: 4px 0;
+    position: fixed; */
+    /* height: 50px;
+    margin-bottom: 50px; */
+}
+
+    /* .content{
+        width: 850px; 
+        margin: auto;
+        margin-bottom: 350px; /* Same height as footer */
+        
+
+.container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: 50px;
+}
+
+/* #footer,
+.push {
+  height: 50px;
+} */
+
+img {
+    position: left;
+}
+
+/*********************HEADER**********************/
+
+/*********************MAIN**********************/
+p {
+    color: white;
+}
+
+.bt p{
+    color: #20afd7;
+}
+
+.content1-left {
+    margin-left: -10px;
+}
+/*********************FOOTER**********************/
+
+/*********************NAVBAR**********************/
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.btn {
+    background-color: #20afd7;
+    /* position: absolute; */
+    margin-right: 18px;
+    
+}
+
+.btn-outline-secondary {
+    color: white;
+    border-color: #6c757d;
+}
+
+.col-md-6 .content1-right{
+    position: right;
+    margin-right: 18px;
+}
+
+/* .col-md-6{
+    padding-right: 65px;
+    padding-left: 35px;
+} */
+
+   
